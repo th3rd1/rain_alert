@@ -1,0 +1,1 @@
+"API project using openweathermap and Twilio to check if it will rain in the users location (using lat/lon) over the next 15 hours. Included commented out code for use python anywhere to run script online. 
