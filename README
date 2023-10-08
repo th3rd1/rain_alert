@@ -1,1 +1,8 @@
-"API project using openweathermap and Twilio to check if it will rain in the users location (using lat/lon) over the next 15 hours. Included commented out code for use python anywhere to run script online. 
+"API project using openweathermap and Twilio to check if it will rain in the users location (using lat/lon) over the next 15 hours. 
+Included commented out code for use python anywhere to run script online. Also introduced envoronmental variables for protecting
+api key and auth tokens
+
+If you would like to use this code you will need the following:
+  API Key to Openweathermap.org
+  Twillio Account and auth token
+  Your latitude/longitude to check weather forecast
